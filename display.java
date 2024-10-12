@@ -25,3 +25,9 @@ public class Conversao {
         }
     }
 }
+
+//Conversão:
+//Tenta converter a entrada para um inteiro.
+//Se falhar, tenta convertê-la para um ponto flutuante.
+//Se ambas as conversoes falharem, exibe uma mensagem de erro.
+//Isso permite validar se a entrada do usuário é um número válido.
